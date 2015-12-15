@@ -20,6 +20,6 @@ für 3 Portionen
 
 Die Tortellini garen. Die Möhren schälen und in Scheiben schneiden, den Brokkoli vorbereiten und ggf. in kleine Röschen teilen.
 Olivenöl in einer Pfanne erhitzen und Mehl darin anschwitzen. Dann mit Gemüsebrühe, Sahne und Milch ablöschen. 
-Den Schmelzkäse in der Soße schmelzen kurz aufkochen. Gemüse hinzugeben und ca. 10 min. köcheln lassen bis das Gemüse die gewünschte bissfestigkeit erreicht hat.
+Den Schmelzkäse in der Soße schmelzen und kurz aufkochen. Gemüse hinzugeben und ca. 10 min. köcheln lassen bis das Gemüse die gewünschte bissfestigkeit erreicht hat.
 Soße mit Muskat und Salz abschmecken. 
 Zum Schluss die Tortellini in die Soße geben.
