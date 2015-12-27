@@ -7,7 +7,7 @@ für 3 Portionen
 * 500 g Tortellini mit Ricotta-Spinatfüllung aus dem Kühlregal
 * 300 ml Gemüsebrühe
 * 2 mittelgroße Möhren
-* 100 g Brokkoli
+* 200 g Brokkoli
 * 120 ml Sahne
 * 75 g Schmelzkäse
 * 60 ml Milch
