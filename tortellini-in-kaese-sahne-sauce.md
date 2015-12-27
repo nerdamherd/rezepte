@@ -7,7 +7,7 @@ für 3 Portionen
 * 500 g Tortellini mit Ricotta-Spinatfüllung aus dem Kühlregal
 * 300 ml Gemüsebrühe
 * 2 mittelgroße Möhren
-* 100 g Brokkoli
+* 200 g Brokkoli
 * 120 ml Sahne
 * 75 g Schmelzkäse
 * 60 ml Milch
@@ -20,6 +20,10 @@ für 3 Portionen
 
 Die Tortellini garen. Die Möhren schälen und in Scheiben schneiden, den Brokkoli vorbereiten und ggf. in kleine Röschen teilen.
 Olivenöl in einer Pfanne erhitzen und Mehl darin anschwitzen. Dann mit Gemüsebrühe, Sahne und Milch ablöschen. 
+<<<<<<< HEAD
 Den Schmelzkäse in der Soße schmelzen kurz aufkochen. Gemüse hinzugeben und ca. 10 min. köcheln lassen bis das Gemüse die gewünschte Bissfestigkeit erreicht hat.
+=======
+Den Schmelzkäse in der Soße schmelzen und kurz aufkochen. Gemüse hinzugeben und ca. 10 min. köcheln lassen bis das Gemüse die gewünschte bissfestigkeit erreicht hat.
+>>>>>>> master
 Soße mit Muskat und Salz abschmecken. 
 Zum Schluss die Tortellini in die Soße geben.
