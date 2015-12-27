@@ -3,7 +3,7 @@
 ## Zutaten
 
 * 100ml Sahne
-* 100g Frischkäse
+* 100g Schmelzkäse
 * 150g Cheddar
 * 1 Zehe Knoblauch
 * 1 Chilischote (Jalapeño/Habanero)
