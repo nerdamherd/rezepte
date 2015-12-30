@@ -15,12 +15,12 @@ für 3 Portionen
 * Garam masala nach Belieben
 * Schuss Sriracha oder Chilisauce
 
-## zubereitung
+## Zubereitung
 
 Kartoffeln vorgaren. Nicht ganz gar kochen.
-Lauch und Paprika klein schneiden. 
-Öl in der Pfanne erhitzen, den Lauch kräftig anbraten, Paprika dazu geben & Temperatur reduzieren. 
-Die Kartoffeln würfeln und dazu geben. 
-Den Spinat waschen oder auftauen und zusammen mit den Kichererbsen inklusive Flüssigkeit dazu geben. 
-Mit Gemüsebrühe, Garam Masala und Sriracha würzen und etwas Temperatur köcheln lassen. 
+Lauch und Paprika klein schneiden.
+Öl in der Pfanne erhitzen, den Lauch kräftig anbraten, Paprika dazu geben & Temperatur reduzieren.
+Die Kartoffeln würfeln und dazu geben.
+Den Spinat waschen oder auftauen und zusammen mit den Kichererbsen inklusive Flüssigkeit dazu geben.
+Mit Gemüsebrühe, Garam Masala und Sriracha würzen und etwas Temperatur köcheln lassen.
 Die Sahne dazu geben heiß werden lassen.
