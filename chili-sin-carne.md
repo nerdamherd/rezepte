@@ -25,7 +25,7 @@ Beides in einem großen Topf mit etwas Butter anschwitzen.
 Die Kartoffeln schälen, in kleine Würfel schneiden und dazu geben. 
 Die roten Linsen abbrausen und in die Topf geben. 
 Mit der Gemüsebrühe ablöschen.
-Dann ungefähr 20 Minuten löcheln lassen bis die Kartoffeln durch sind. 
+Dann 15-20 Minuten löcheln lassen bis die Kartoffeln durch sind und die Linsen ganz zerfallen. 
 Kidneybohnen und Mais abtropfen, dazugeben unterrühren und gut heiß werden lassen. 
 Dann nach Belieben mit dem Tomatenmark färben und abschmecken. 
 Mit etwas Salz, Pfeffer, Curry, Paprika und Chilipulver kräftig würzen. 
