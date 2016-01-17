@@ -8,14 +8,14 @@ für 3 Portionen
 * 1 rote Paprikaschote
 * 5 mittelgroße Kartoffeln
 * 180 g	Spinat
-* 1 Dose mit Flüssigkeit
+* 1 Dose Kichererbsen mit Flüssigkeit
 * 200 ml Sahne
 * 3 TL Gemüsebrühe
 * Olivenöl zum Anbraten
 * Garam masala nach Belieben
 * Schuss Sriracha oder Chilisauce
 
-## zubereitung
+## Zubereitung
 
 Kartoffeln vorgaren. Nicht ganz gar kochen.
 Lauch und Paprika klein schneiden. 
