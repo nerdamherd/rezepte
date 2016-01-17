@@ -9,18 +9,18 @@ für 3 Portionen
 * 5 mittelgroße Kartoffeln
 * 180 g	Spinat
 * 1 Dose Kichererbsen mit Flüssigkeit
-* 200 ml Sahne
+* 200 ml Sojasahnesahne
 * 3 TL Gemüsebrühe
 * Olivenöl zum Anbraten
-* Garam masala nach Belieben
-* Schuss Sriracha oder Chilisauce
+* 3,5 TL Garam masala
+* Schuss Sriracha oder Chilisauce je nach gewünschter Schärfe
 
 ## Zubereitung
 
-Kartoffeln vorgaren. Nicht ganz gar kochen.
-Lauch und Paprika klein schneiden. 
-Öl in der Pfanne erhitzen, den Lauch kräftig anbraten, Paprika dazu geben & Temperatur reduzieren. 
-Die Kartoffeln würfeln und dazu geben. 
-Den Spinat waschen oder auftauen und zusammen mit den Kichererbsen inklusive Flüssigkeit dazu geben. 
-Mit Gemüsebrühe, Garam Masala und Sriracha würzen und etwas Temperatur köcheln lassen. 
-Die Sahne dazu geben heiß werden lassen.
+Kartoffeln schälen, würfeln vorgaren. Nicht ganz gar kochen.  
+Lauch und Paprika klein schneiden.  
+Öl in der Pfanne erhitzen, den Lauch kräftig anbraten, Paprika dazu geben & Temperatur reduzieren.  
+Die Kartoffeln dazu geben.  
+Den Spinat waschen oder auftauen und zusammen mit den Kichererbsen inklusive Flüssigkeit dazu geben.  
+Mit Gemüsebrühe, Garam Masala und Sriracha würzen und etwas Temperatur köcheln lassen.  
+Die Sahne dazu geben heiß werden lassen.  
