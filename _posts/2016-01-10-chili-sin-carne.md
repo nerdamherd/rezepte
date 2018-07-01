@@ -1,22 +1,24 @@
-# Chili Sin Carne
-
-für 4 Portionen
-
-## Zutaten
-
-* 250 g	Linsen, rote
-* 1 Dose Kidneybohnen
-* 1 Dose Mais
-* 1 Zwiebel(n)
-* 2 mittelgroße	Kartoffel(n)
-* Butter zum Anschwitzen
-* Tomatenmark
-* Chili
-* 2 Knoblauchzehe(n)
-* 1250 ml	Gemüsebrühe
-* Paprikapulver
-* Currypulver
-* Salz und Pfeffer
+---
+layout: post
+title:  "Chili Sin Carne"
+date:   2016-01-10 20:07:39 +0200
+categories: jekyll update
+servings: 4
+ingredients:
+ - 250 g	Linsen, rote
+ - 1 Dose Kidneybohnen
+ - 1 Dose Mais
+ - 1 Zwiebel(n)
+ - 2 mittelgroße	Kartoffel(n)
+ - Butter zum Anschwitzen
+ - Tomatenmark
+ - Chili
+ - 2 Knoblauchzehe(n)
+ - 1250 ml	Gemüsebrühe
+ - Paprikapulver
+ - Currypulver
+ - Salz und Pfeffer
+---
 
 ## Zubereitung
 

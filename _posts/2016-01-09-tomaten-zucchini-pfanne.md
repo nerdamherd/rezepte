@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zucchini-Tomaten-Pfanne"
-date:   2018-06-28 20:07:39 +0200
+date:   2016-01-09 20:07:39 +0200
 categories: jekyll update
 servings: 2
 ingredients:
