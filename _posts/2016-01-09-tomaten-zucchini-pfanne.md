@@ -14,18 +14,6 @@ ingredients:
   - Pfeffer
 ---
 
-für 2 Portionen
-
-## Zutaten
-
-* 4 Mittelgroße Zuccini
-* 6 Tomaten
-* 20g Basilikum
-* 150g Feta (am besten den falschen aus Kuhmilch)
-* 2 EL Olivenöl
-* Salz
-* Pfeffer
-
 ## Zubereitung
 
 Zuchini der länge nach halbieren und in ca 4mm breite Scheiben schneiden.
