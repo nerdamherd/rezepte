@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blomenkohl-Kartoffel-Curry"
-date:   2018-07-11 12:00:00 +0200
+title:  "Blumenkohl-Kartoffel-Curry"
+date:   2018-07-01 12:00:00 +0200
 categories: curry
 servings: 2
 ingredients:
