@@ -1,15 +1,19 @@
-# Chili-Cheese-Sauce
-
-## Zutaten
-
-* 100ml Sahne
-* 100g Schmelzkäse
-* 150g Cheddar
-* 1 Zehe Knoblauch
-* 1 Chilischote (Jalapeño/Habanero)
-* 1 Prise Salz
-* 1 Prise Chilipulver
-* 1 Prise Cayennepfeffer
+---
+layout: post
+title:  "Chili-Cheese-Sauce"
+date:   2015-12-27 12:00:00 +0200
+categories: sauce
+servings: 4
+ingredients:
+  - 100ml Sahne
+  - 100g Schmelzkäse
+  - 150g Cheddar
+  - 1 Zehe Knoblauch
+  - 1 Chilischote (Jalapeño/Habanero)
+  - 1 Prise Salz
+  - 1 Prise Chilipulver
+  - 1 Prise Cayennepfeffer
+---
 
 ## Zubereitung
 

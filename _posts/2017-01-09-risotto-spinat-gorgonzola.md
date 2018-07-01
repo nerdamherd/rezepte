@@ -1,22 +1,24 @@
-# Spinat-Gorgonzola-Risotto
-
-für 4 Portionen
-
-## Zutaten
-
-* 400 g	Blattspinat
-* 1 Schalotte
-* 2 Knoblauchzehen
-* 250 g	Risottoreis
-* 750 ml Gemüsebrühe
-* 100 ml	Weißwein
-* 50 g Mascarpone
-* 50 g Parmesan
-* 125 g	Gongonzola
-* Pfeffer
-* bunter Pfeffer
-* Salz
-* Olivenöl
+---
+layout: post
+title:  "Spinat-Gorgonzola-Risotto"
+date:   2017-01-09 12:00:00 +0200
+categories: risotto
+servings: 4
+ingredients:
+  - 400 g	Blattspinat
+  - 1 Schalotte
+  - 2 Knoblauchzehen
+  - 250 g	Risottoreis
+  - 750 ml Gemüsebrühe
+  - 100 ml	Weißwein
+  - 50 g Mascarpone
+  - 50 g Parmesan
+  - 125 g	Gongonzola
+  - Pfeffer
+  - bunter Pfeffer
+  - Salz
+  - Olivenöl
+---
 
 ## Zubereitung
 

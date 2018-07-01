@@ -1,20 +1,23 @@
-# Risotto mit Kräuterseitlingen
+---
+layout: post
+title:  "Risotto mit Kräuterseitlingen"
+date:   2017-01-27 12:00:00 +0200
+categories: risotto
+servings: 4
+ingredients:
+  - 100 g	Butter
+  - 2 Schalotten
+  - 300 g	Risottoreis
+  - 600 ml Gemüsebrühe
+  - 300 ml	Weißwein
+  - 70 g Parmesan
+  - 7 Kräuterseitlinge
+  - 125 g	Gongonzola
+  - Pfeffer
+  - Thymian
+  - Salz
 
-für 4 Portionen
-
-## Zutaten
-
-* 100 g	Butter
-* 2 Schalotten
-* 300 g	Risottoreis
-* 600 ml Gemüsebrühe
-* 300 ml	Weißwein
-* 70 g Parmesan
-* 7 Kräuterseitlinge
-* 125 g	Gongonzola
-* Pfeffer
-* Thymian
-* Salz
+---
 
 ## Zubereitung
 

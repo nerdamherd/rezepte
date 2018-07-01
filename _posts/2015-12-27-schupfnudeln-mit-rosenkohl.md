@@ -1,19 +1,21 @@
-# Schupfnudeln mit Rosenkohl
-
-für 4 Portionen
-
-## Zutaten
-
-* 500 g	Rosenkohl
-* 1 Zwiebel
-* 100 ml warmes Wasser
-* 2 EL Pinienkerne
-* 2 EL Pflanzenöl
-* 500 g	Schupfnudeln
-* 1/2 TL Gemüsebrühe
-* 100 g Raclettekäse
-* Salz und (weißer) Pfeffer
-* etwas	Muskat, gerieben
+---
+layout: post
+title:  "Schupfnudeln mit Rosenkohl"
+date:   2015-12-27 12:00:00 +0200
+categories: schupfnudeln
+servings: 4
+ingredients:
+  - 500 g	Rosenkohl
+  - 1 Zwiebel
+  - 100 ml warmes Wasser
+  - 2 EL Pinienkerne
+  - 2 EL Pflanzenöl
+  - 500 g	Schupfnudeln
+  - 1/2 TL Gemüsebrühe
+  - 100 g Raclettekäse
+  - Salz und (weißer) Pfeffer
+  - etwas	Muskat, gerieben
+---
 
 ## Zubereitung
 
