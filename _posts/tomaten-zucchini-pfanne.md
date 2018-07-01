@@ -1,4 +1,18 @@
-# Zucchini-Tomaten-Pfanne
+---
+layout: post
+title:  "Zucchini-Tomaten-Pfanne"
+date:   2018-06-28 20:07:39 +0200
+categories: jekyll update
+servings: 2
+ingredients:
+  - 4 Mittelgroße Zuccini
+  - 6 Tomaten
+  - 20g Basilikum
+  - 150g Feta (am besten den falschen aus Kuhmilch)
+  - 2 EL Olivenöl
+  - Salz
+  - Pfeffer
+---
 
 für 2 Portionen
 
