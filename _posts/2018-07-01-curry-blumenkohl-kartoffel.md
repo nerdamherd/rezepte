@@ -4,6 +4,7 @@ title:  "Blumenkohl-Kartoffel-Curry"
 date:   2018-07-01 12:00:00 +0200
 categories: curry
 servings: 2
+image: /assets/img/2018/curry-blumenkohl-kartoffel-full.jpg
 ingredients:
   - 200g Kartoffeln
   - 1 kleiner Blumenkohl

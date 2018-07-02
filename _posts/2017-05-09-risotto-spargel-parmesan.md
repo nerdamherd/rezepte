@@ -1,20 +1,22 @@
-# Spargel-Parmesan-Risotto
-
-für 4 Portionen
-
-## Zutaten
-
-* 500 g	grüner Spargel
-* 2 Schalotten
-* 300 g	Risottoreis
-* 800 ml Kalbsbrühe
-* 100 ml	Weißwein
-* 75 g Parmesan
-* 3 Stiele glatte Petersilie
-* 1/2 Zitrone
-* 3 EL Butter
-* Pfeffer
-* Salz
+---
+layout: post
+title:  "Spargel-Parmesan-Risotto"
+date:   2017-01-27 12:00:00 +0200
+categories: risotto
+servings: 4
+ingredients:
+  - 500 g	grüner Spargel
+  - 2 Schalotten
+  - 300 g	Risottoreis
+  - 800 ml Kalbsbrühe
+  - 100 ml	Weißwein
+  - 75 g Parmesan
+  - 3 Stiele glatte Petersilie
+  - 1/2 Zitrone
+  - 3 EL Butter
+  - Pfeffer
+  - Salz
+---
 
 ## Zubereitung
 

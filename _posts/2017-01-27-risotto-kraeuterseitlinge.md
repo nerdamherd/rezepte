@@ -16,7 +16,6 @@ ingredients:
   - Pfeffer
   - Thymian
   - Salz
-
 ---
 
 ## Zubereitung

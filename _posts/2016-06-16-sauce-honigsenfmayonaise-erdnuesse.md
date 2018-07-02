@@ -1,12 +1,16 @@
-# Honigsenfmayonaise mit Erdnüssen
-
-## Zutaten 
-
-* 1 Ei
-* 3 Teelöffel Honig
-* 1 Teelöffel Senf
-* 1 Esslöffel Erdnüsse
-* 200 ml Pflanzenöl
+---
+layout: post
+title:  "Honigsenfmayonaise mit Erdnüssen"
+date:   2016-06-16 12:00:00 +0200
+categories: sauce
+servings: 2
+ingredients:
+  - 1 Ei
+  - 3 Teelöffel Honig
+  - 1 Teelöffel Senf
+  - 1 Esslöffel Erdnüsse
+  - 200 ml Pflanzenöl
+---
 
 ## Zubereitung
 
