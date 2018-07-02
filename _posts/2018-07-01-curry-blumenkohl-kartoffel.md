@@ -29,6 +29,6 @@ Kartoffeln schälen und würfeln.
 Zwiebel, Ingwer und Kartoffeln schälen. Kartoffeln würfeln, Zwiebeln in Streifen schneiden, Ingwer reiben.
 Öl erhitzen und Blumenkohl, Kartoffeln, Zwiebel und Ingwer darin ca. 3 Minuten anbraten. Knoblauch dazupressen, Currypaste kurz mitbraten.
 Mit Brühe und Kokosmilch ablöschen und mit Deckel ca. 20 Minuten köcheln lassen, bis Blumenkohl und Kartoffeln fast gar sind.
-In der Zwischdenzeit Koriander hacken.
+In der Zwischenzeit Koriander hacken.
 Curry mit Mandelmus verfeinern, mit Salz und Pfeffer abschmecken. Mit Cashewkernen und Koriander besteruen.
 Fertig.
