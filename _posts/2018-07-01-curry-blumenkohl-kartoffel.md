@@ -2,9 +2,10 @@
 layout: post
 title:  "Blumenkohl-Kartoffel-Curry"
 date:   2018-07-01 12:00:00 +0200
-categories: curry
+tags: [ curry, hauptgericht, schnell, vegan, einfach ]
 servings: 2
 image: /assets/img/2018/curry-blumenkohl-kartoffel-full.jpg
+color: E6B21C
 ingredients:
   - 200g Kartoffeln
   - 1 kleiner Blumenkohl
@@ -24,11 +25,8 @@ ingredients:
 
 ## Zubereitung
 
-Blumenkohl waschen und in kleine Röschen schneiden.
-Kartoffeln schälen und würfeln.
-Zwiebel, Ingwer und Kartoffeln schälen. Kartoffeln würfeln, Zwiebeln in Streifen schneiden, Ingwer reiben.
-Öl erhitzen und Blumenkohl, Kartoffeln, Zwiebel und Ingwer darin ca. 3 Minuten anbraten. Knoblauch dazupressen, Currypaste kurz mitbraten.
-Mit Brühe und Kokosmilch ablöschen und mit Deckel ca. 20 Minuten köcheln lassen, bis Blumenkohl und Kartoffeln fast gar sind.
-In der Zwischenzeit Koriander hacken.
-Curry mit Mandelmus verfeinern, mit Salz und Pfeffer abschmecken. Mit Cashewkernen und Koriander besteruen.
-Fertig.
+Blumenkohl waschen und in kleine Röschen schneiden. Kartoffeln schälen und würfeln. Zwiebel, Ingwer und Kartoffeln schälen. Kartoffeln würfeln, Zwiebeln in Streifen schneiden, Ingwer reiben.
+
+Öl erhitzen und Blumenkohl, Kartoffeln, Zwiebel und Ingwer darin ca. 3 Minuten anbraten. Knoblauch dazupressen, Currypaste kurz mitbraten. Mit Brühe und Kokosmilch ablöschen und mit Deckel ca. 20 Minuten köcheln lassen, bis Blumenkohl und Kartoffeln fast gar sind.
+
+In der Zwischenzeit Koriander hacken. Curry mit Mandelmus verfeinern, mit Salz und Pfeffer abschmecken. Mit Cashewkernen und Koriander besteruen. Fertig.
