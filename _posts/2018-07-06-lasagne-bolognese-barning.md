@@ -4,6 +4,7 @@ title:  "Lasagne Bolognese „Barning“"
 date:   2018-07-06 12:00:00 +0200
 tags: [ hauptgericht, fleisch, vegetarisch, lasagne ]
 servings: 4 Portionen
+image: /assets/img/2018/lasagne-bolognese-barning.jpg
 ingredients:
     - 1 Bund Suppengrün
     - 200g geriebener Käse
