@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lasagne Bologneser „Barning“"
+title:  "Lasagne Bolognese „Barning“"
 date:   2018-07-06 12:00:00 +0200
 tags: [ hauptgericht, fleisch, vegetarisch, lasagne ]
 servings: 4 Portionen
