@@ -10,6 +10,7 @@ ingredients:
     - 200g geriebener Käse
     - 500g Tatar oder 1 Packung vegetarisches Hack
     - 1 Dose gehackte Tomaten
+    - Lasagnenudelplatten
     - Salz
     - schwarzer Pfeffer
     - ½l Gemüsebrühe (eventuell etwas mehr)
