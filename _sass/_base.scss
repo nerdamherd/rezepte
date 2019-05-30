@@ -1,0 +1,14 @@
+body {
+  font: 16px/1.5 "adelle-sans",sans-serif;
+  @media (min-width: 800px) {
+    font-size: 20px;
+  }
+}
+
+h1, h2, h3 {
+  font-family: "freight-display-pro",serif;
+}
+
+img {
+  max-width: 100%;
+}

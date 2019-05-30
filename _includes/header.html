@@ -1,0 +1,18 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- if page_paths -%}
+      <nav class="site-nav">
+        <ul>
+          <li><a href="/rezepte">Rezepte</a></li>
+          <li><a href="/nerd-am-herd">Über diese Sammlung</a></li>
+          <li><a href="/kontakt">Kontakt</a></li>
+        </ul>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>
